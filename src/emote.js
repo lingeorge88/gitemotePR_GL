@@ -8,7 +8,7 @@
  * console.log(randomEmote); // Output: a random emoji from the array
  */
 function getRandomEmote() {
-  const emotes = ["😊", "🫡", "🥺", "🥳", "🤯", "😂", "😃", "🔥", "🤩", "✨"];
+  const emotes = ["1", "🫡", "🥺", "🥳", "🤯", "😂", "😃", "🔥", "🤩", "✨"];
   const randomIndex = Math.floor(Math.random() * emotes.length);
   return emotes[randomIndex];
 }
@@ -21,22 +21,22 @@ const reviewEmotes = [
   `https://emojik.vercel.app/s/🧐_${getRandomEmote()}?size=128`,
 ];
 
-const fixes = [`https://emojik.vercel.app/s/🤓_${getRandomEmote()}?size=128`];
+const fixes = [`https://emojik.vercel.app/s/👻_🛠️?size=128`];
 
 const docs = [
-  `https://emojik.vercel.app/s/📚_${getRandomEmote()}?size=128`,
+  `https://emojik.vercel.app/s/${getRandomEmote()}_270f-fe0f?size=128`,
 ];
 
 const style = [
-  `https://emojik.vercel.app/s/🎨_🔥?size=128`,
+  `https://emojik.vercel.app/s/1f52e_1f3a8?size=128`,
 ];
 
 const refactor = [
-  `https://emojik.vercel.app/s/🛠_${getRandomEmote()}?size=128`,
+  `https://emojik.vercel.app/s/👻_🛠️?size=128`,
 ];
 
 const test = [
-  `https://emojik.vercel.app/s/🧪_${getRandomEmote()}?size=128`,
+  `https://emojik.vercel.app/s/1f600_1f916?size=128`,
 ];
 
 const defaults = [
