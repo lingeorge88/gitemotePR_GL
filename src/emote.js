@@ -14,17 +14,17 @@ function getRandomEmote() {
 }
 
 const features = [
-  `https://emojik.vercel.app/s/😎_${getRandomEmote()}?size=128`,
+  `https://emojik.vercel.app/s/1f31f_1f38a?size=128`,
 ];
 
 const reviewEmotes = [
-  `https://emojik.vercel.app/s/🧐_${getRandomEmote()}?size=128`,
+  `https://emojik.vercel.app/s/1fa84_1f50e?size=128`,
 ];
 
 const fixes = [`https://emojik.vercel.app/s/👻_🛠️?size=128`];
 
 const docs = [
-  `https://emojik.vercel.app/s/${getRandomEmote()}_270f-fe0f?size=128`,
+  `https://emojik.vercel.app/s/1f31f_270f-fe0f?size=128`,
 ];
 
 const style = [
@@ -32,7 +32,7 @@ const style = [
 ];
 
 const refactor = [
-  `https://emojik.vercel.app/s/👻_🛠️?size=128`,
+  `https://emojik.vercel.app/s/1f60e_1f4a1?size=128`,
 ];
 
 const test = [
