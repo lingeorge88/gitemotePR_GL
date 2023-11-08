@@ -36,7 +36,7 @@ const refactor = [
 ];
 
 const test = [
-  `https://emojik.vercel.app/s/🧪_👻?size=128`,
+  `https://emojik.vercel.app/s/🧪_😎?size=128`,
 ];
 
 const defaults = [
