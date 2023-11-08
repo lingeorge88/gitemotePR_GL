@@ -28,7 +28,7 @@ const docs = [
 ];
 
 const style = [
-  `https://emojik.vercel.app/s/💅_${getRandomEmote()}?size=128`,
+  `https://emojik.vercel.app/s/🎨_🔥?size=128`,
 ];
 
 const refactor = [
@@ -36,7 +36,7 @@ const refactor = [
 ];
 
 const test = [
-  `https://emojik.vercel.app/s/🧪_😎?size=128`,
+  `https://emojik.vercel.app/s/🧪_${getRandomEmote()}?size=128`,
 ];
 
 const defaults = [
